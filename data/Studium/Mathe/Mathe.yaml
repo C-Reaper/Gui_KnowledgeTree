@@ -1,0 +1,9 @@
+Path: ./data/Studium/Mathe/Mathe.yaml
+PosX: 41.5368804931
+PosY: 31.2795143127
+Folded: false
+Title: Mathe
+Text: ...
+Childs: 
+  - ./data/Studium/Mathe/Analysis.yaml
+  - ./data/Studium/Mathe/Geometrie.yaml

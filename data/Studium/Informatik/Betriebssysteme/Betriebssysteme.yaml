@@ -1,0 +1,14 @@
+Path: ./data/Studium/Informatik/Betriebssysteme/Betriebssysteme.yaml
+PosX: 130.9852905273
+PosY: -1.6890945434
+Folded: false
+Title: Betriebssysteme
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Betriebssysteme/Scheduling.yaml
+  - ./data/Studium/Informatik/Betriebssysteme/Thread.yaml
+  - ./data/Studium/Informatik/Betriebssysteme/Speicherverwaltung.yaml
+  - ./data/Studium/Informatik/Betriebssysteme/Deadlocks.yaml
+  - ./data/Studium/Informatik/Betriebssysteme/Dateisysteme.yaml
+  - ./data/Studium/Informatik/Betriebssysteme/Process.yaml
+  - ./data/Studium/Informatik/Betriebssysteme/Synchronisation.yaml

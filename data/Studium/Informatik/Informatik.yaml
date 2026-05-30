@@ -1,0 +1,34 @@
+Path: ./data/Studium/Informatik/Informatik.yaml
+PosX: -233.5081329345
+PosY: 108.1375885009
+Folded: false
+Title: Informatik
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Diskrete_Mathematik/Diskrete_Mathematik.yaml
+  - ./data/Studium/Informatik/Bioinformatik/Bioinformatik.yaml
+  - ./data/Studium/Informatik/Rechnernetze/Rechnernetze.yaml
+  - ./data/Studium/Informatik/Hochleistungsrechnen/Hochleistungsrechnen.yaml
+  - ./data/Studium/Informatik/Theoretische_Informatik/Theoretische_Informatik.yaml
+  - ./data/Studium/Informatik/Datenbanken/Datenbanken.yaml
+  - ./data/Studium/Informatik/Rechnerarchitektur/Rechnerarchitektur.yaml
+  - ./data/Studium/Informatik/Moderne_KI/Moderne_KI.yaml
+  - ./data/Studium/Informatik/Formale_Methoden/Formale_Methoden.yaml
+  - ./data/Studium/Informatik/Data_Science/Data_Science.yaml
+  - ./data/Studium/Informatik/Verteilte_Systeme/Verteilte_Systeme.yaml
+  - ./data/Studium/Informatik/Betriebssysteme/Betriebssysteme.yaml
+  - ./data/Studium/Informatik/Webentwicklung/Webentwicklung.yaml
+  - ./data/Studium/Informatik/Datenstrukturen/Datenstrukturen.yaml
+  - ./data/Studium/Informatik/Programmierung/Programmierung.yaml
+  - ./data/Studium/Informatik/Embedded_Systems/Embedded_Systems.yaml
+  - ./data/Studium/Informatik/Software_Engineering/Software_Engineering.yaml
+  - ./data/Studium/Informatik/Robotik/Robotik.yaml 
+  - ./data/Studium/Informatik/Fortgeschrittene_Algorithmen/Fortgeschrittene_Algorithmen.yaml
+  - ./data/Studium/Informatik/IT/IT-Sicherheit.yaml
+  - ./data/Studium/Informatik/Mathematik/Mathematik.yaml
+  - ./data/Studium/Informatik/Computergrafik/Computergrafik.yaml
+  - ./data/Studium/Informatik/Compilerbau/Compilerbau.yaml
+  - ./data/Studium/Informatik/Komplexitaetstheorie/Komplexitaetstheorie.yaml
+  - ./data/Studium/Informatik/KI/KI.yaml
+  - ./data/Studium/Informatik/OOP/OOP.yaml
+  - ./data/Studium/Informatik/Algorithmen/Algorithmen.yaml

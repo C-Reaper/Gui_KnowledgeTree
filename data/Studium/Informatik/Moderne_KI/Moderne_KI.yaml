@@ -1,0 +1,11 @@
+Path: ./data/Studium/Informatik/Moderne_KI/Moderne_KI.yaml
+PosX: 0.0
+PosY: 0.0
+Folded: false
+Title: Moderne KI
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Moderne_KI/Transformer.yaml
+  - ./data/Studium/Informatik/Moderne_KI/LLM.yaml
+  - ./data/Studium/Informatik/Moderne_KI/RL.yaml
+  - ./data/Studium/Informatik/Moderne_KI/MultiAgentSystem.yaml

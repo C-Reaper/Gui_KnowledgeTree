@@ -1,0 +1,12 @@
+Path: ./data/Studium/Informatik/Hochleistungsrechnen/Hochleistungsrechnen.yaml
+PosX: -101.1325531005
+PosY: -58.7553329467
+Folded: false
+Title: Hochleistungsrechnen
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Hochleistungsrechnen/Supercomputer.yaml
+  - ./data/Studium/Informatik/Hochleistungsrechnen/Quantencomputer.yaml
+  - ./data/Studium/Informatik/Hochleistungsrechnen/Parallelcomputing.yaml
+  - ./data/Studium/Informatik/Hochleistungsrechnen/Cluster.yaml
+  - ./data/Studium/Informatik/Hochleistungsrechnen/GPU.yaml

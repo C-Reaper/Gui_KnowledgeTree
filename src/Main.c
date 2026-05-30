@@ -5,12 +5,12 @@ KnowledgeTree kt;
 
 void Setup(AlxWindow* w){
 	kt = KnowledgeTree_New();
-    KnowledgeTree_Load(&kt,"./data/Root.yaml");
+    KnowledgeTree_Load(&kt,"./data/Studium/Studium.yaml");
 	
-	Hashmap_Print(&kt.yamls);
+	//Hashmap_Print(&kt.yamls);
 }
 void Update(AlxWindow* w){
-	KnowledgeTree_Update(&kt,w->Strokes,GetMouse());
+	KnowledgeTree_Update(&kt,w->Strokes,GetMouse(),w->ElapsedTime);
 
 	Clear(BLACK);
 

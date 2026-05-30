@@ -1,0 +1,14 @@
+Path: ./data/Studium/Informatik/Rechnernetze/Rechnernetze.yaml
+PosX: 80.3602600097
+PosY: 35.3036041259
+Folded: false
+Title: Rechnernetze
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Rechnernetze/OSI.yaml
+  - ./data/Studium/Informatik/Rechnernetze/DNS.yaml
+  - ./data/Studium/Informatik/Rechnernetze/IP.yaml
+  - ./data/Studium/Informatik/Rechnernetze/Routing.yaml
+  - ./data/Studium/Informatik/Rechnernetze/Protocols.yaml
+  - ./data/Studium/Informatik/Rechnernetze/HTTP_S.yaml
+  - ./data/Studium/Informatik/Rechnernetze/TCP_DTP.yaml

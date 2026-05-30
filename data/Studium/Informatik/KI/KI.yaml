@@ -1,0 +1,12 @@
+Path: ./data/Studium/Informatik/KI/KI.yaml
+PosX: 0.0
+PosY: 0.0
+Folded: false
+Title: KI
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/KI/Expertensysteme.yaml
+  - .data/Studium/Informatik/KI/Wissensrepraesentation.yaml
+  - .data/Studium/Informatik/KI/DL.yaml
+  - .data/Studium/Informatik/KI/NN.yaml
+  - .data/Studium/Informatik/KI/ML.yaml

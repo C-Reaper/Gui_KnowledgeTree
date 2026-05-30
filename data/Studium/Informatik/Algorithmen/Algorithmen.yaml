@@ -1,0 +1,13 @@
+Path: ./data/Studium/Informatik/Algorithmen/Algorithmen.yaml
+PosX: -118.8017120361
+PosY: 90.6492233276
+Folded: false
+Title: Algorithmen
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Algorithmen/DynProgramming.yaml
+  - .data/Studium/Informatik/Algorithmen/GreedyVerfahren.yaml
+  - .data/Studium/Informatik/Algorithmen/Recursion.yaml
+  - .data/Studium/Informatik/Algorithmen/DivideConquer.yaml
+  - .data/Studium/Informatik/Algorithmen/Search.yaml
+  - .data/Studium/Informatik/Algorithmen/Sort.yaml

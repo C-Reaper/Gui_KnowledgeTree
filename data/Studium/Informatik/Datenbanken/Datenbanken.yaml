@@ -1,0 +1,17 @@
+Path: ./data/Studium/Informatik/Datenbanken/Datenbanken.yaml
+PosX: 19.9925842285
+PosY: 93.2301254272
+Folded: false
+Title: Datenbanken
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Datenbanken/Transaktion.yaml
+  - ./data/Studium/Informatik/Datenbanken/Indices.yaml
+  - ./data/Studium/Informatik/Datenbanken/NoSQL.yaml
+  - ./data/Studium/Informatik/Datenbanken/RelationModel.yaml
+  - ./data/Studium/Informatik/Datenbanken/ACID.yaml
+  - ./data/Studium/Informatik/Datenbanken/SQL.yaml
+  - ./data/Studium/Informatik/Datenbanken/Normalisierung.yaml
+  - ./data/Studium/Informatik/Datenbanken/MySQL/MySQL.yaml
+  - ./data/Studium/Informatik/Datenbanken/PostgreSQL/PostgreSQL.yaml
+  - ./data/Studium/Informatik/Datenbanken/MongoDB/MongoDB.yaml

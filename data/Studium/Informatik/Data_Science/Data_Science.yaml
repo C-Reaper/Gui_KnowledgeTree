@@ -1,0 +1,12 @@
+Path: ./data/Studium/Informatik/Data_Science/Data_Science.yaml
+PosX: 179.8677368164
+PosY: 58.2447891235
+Folded: false
+Title: Data Science
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Data_Science/Datenanalyse.yaml
+  - ./data/Studium/Informatik/Data_Science/DataMining.yaml
+  - ./data/Studium/Informatik/Data_Science/FeatureEng.yaml
+  - ./data/Studium/Informatik/Data_Science/Statistic.yaml
+  - ./data/Studium/Informatik/Data_Science/Visualisierung.yaml

@@ -1,0 +1,11 @@
+Path: ./data/Studium/Informatik/Embedded_Systems/Embedded_Systems.yaml
+PosX: 34.4925842285
+PosY: 53.6565475463
+Folded: false
+Title: Embedded Systems
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Embedded_Systems/Hardwarenaheprogrammierung.yaml
+  - .data/Studium/Informatik/Embedded_Systems/Sensoren.yaml
+  - .data/Studium/Informatik/Embedded_Systems/Echtzeitsysteme.yaml
+  - .data/Studium/Informatik/Embedded_Systems/Mikrocontroller.yaml

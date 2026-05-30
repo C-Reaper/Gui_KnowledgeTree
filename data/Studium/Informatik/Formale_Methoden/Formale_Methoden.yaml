@@ -1,0 +1,10 @@
+Path: ./data/Studium/Informatik/Formale_Methoden/Formale_Methoden.yaml
+PosX: -32.8971862792
+PosY: -83.7038879394
+Folded: false
+Title: Formale Methoden
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Formale_Methoden/Verifikation.yaml
+  - ./data/Studium/Informatik/Formale_Methoden/Modelchecking.yaml
+  - ./data/Studium/Informatik/Formale_Methoden/Korrektheitsbeweise.yaml

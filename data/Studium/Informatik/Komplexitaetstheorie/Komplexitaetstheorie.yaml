@@ -1,0 +1,13 @@
+Path: ./data/Studium/Informatik/Komplexitaetstheorie/Komplexitaetstheorie.yaml
+PosX: -147.5884857177
+PosY: 26.4138717651
+Folded: false
+Title: Komplexitaetstheorie
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Komplexitaetstheorie/Laufzeit.yaml
+  - .data/Studium/Informatik/Komplexitaetstheorie/AverageCase.yaml
+  - .data/Studium/Informatik/Komplexitaetstheorie/WorstCase.yaml
+  - .data/Studium/Informatik/Komplexitaetstheorie/BestCase.yaml
+  - .data/Studium/Informatik/Komplexitaetstheorie/Speicherbedarf.yaml
+  - .data/Studium/Informatik/Komplexitaetstheorie/BigONotation.yaml

@@ -1,0 +1,14 @@
+Path: ./data/Studium/Informatik/Mathematik/Mathematik.yaml
+PosX: 0.0
+PosY: 0.0
+Folded: false
+Title: Mathematik
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Mathematik/Praedikatenlogik.yaml
+  - .data/Studium/Informatik/Mathematik/Beweistechniken.yaml
+  - .data/Studium/Informatik/Mathematik/Mengenlehre.yaml
+  - .data/Studium/Informatik/Mathematik/Relationen.yaml
+  - .data/Studium/Informatik/Mathematik/Aussagenlogik.yaml
+  - .data/Studium/Informatik/Mathematik/Funktionen.yaml
+  - .data/Studium/Informatik/Mathematik/Induktion.yaml

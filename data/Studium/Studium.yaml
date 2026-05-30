@@ -1,0 +1,10 @@
+Path: ./data/Studium/Studium.yaml
+PosX: 100.6064300537
+PosY: 8.6145744323
+Folded: false
+Title: Studium
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Informatik.yaml
+  - ./data/Studium/Mathe/Mathe.yaml
+  - ./data/Studium/Physik/Physik.yaml

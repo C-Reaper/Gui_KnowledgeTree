@@ -1,0 +1,16 @@
+Path: ./data/Studium/Informatik/Datenstrukturen/Datenstrukturen.yaml
+PosX: 89.1176147460
+PosY: 10.9285736083
+Folded: false
+Title: Datenstrukturen
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Datenstrukturen/BinTree.yaml
+  - .data/Studium/Informatik/Datenstrukturen/Hashtable.yaml
+  - .data/Studium/Informatik/Datenstrukturen/Heap.yaml
+  - .data/Studium/Informatik/Datenstrukturen/List.yaml
+  - .data/Studium/Informatik/Datenstrukturen/Graph.yaml
+  - .data/Studium/Informatik/Datenstrukturen/LinkedList.yaml
+  - .data/Studium/Informatik/Datenstrukturen/Tree.yaml
+  - .data/Studium/Informatik/Datenstrukturen/Queues.yaml
+  - .data/Studium/Informatik/Datenstrukturen/Stack.yaml

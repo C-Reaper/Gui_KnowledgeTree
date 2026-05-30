@@ -1,0 +1,18 @@
+Path: ./data/Studium/Informatik/Webentwicklung/Webentwicklung.yaml
+PosX: -10.8236389160
+PosY: 60.5389022827
+Folded: false
+Title: Webentwicklung
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Webentwicklung/Backend/Datenbankanbindung.yaml
+  - .data/Studium/Informatik/Webentwicklung/Backend/Session.yaml
+  - .data/Studium/Informatik/Webentwicklung/Backend/Authentifizierung.yaml
+  - .data/Studium/Informatik/Webentwicklung/Backend/API.yaml
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/UX.yaml
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/Usability.yaml
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/Accessibility.yaml
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/UI.yaml
+  - ./data/Studium/Informatik/Webentwicklung/MC_Interaction/MC_Interaction.yaml
+  - ./data/Studium/Informatik/Webentwicklung/Frontend/Frontend.yaml
+  - ./data/Studium/Informatik/Webentwicklung/Backend/Backend.yaml

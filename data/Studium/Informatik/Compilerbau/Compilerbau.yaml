@@ -1,0 +1,12 @@
+Path: ./data/Studium/Informatik/Compilerbau/Compilerbau.yaml
+PosX: -61.7354583740
+PosY: 106.7080764770
+Folded: false
+Title: Compilerbau
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Compilerbau/Optimierungen.yaml
+  - .data/Studium/Informatik/Compilerbau/Codegeneration.yaml
+  - .data/Studium/Informatik/Compilerbau/Lexik.yaml
+  - .data/Studium/Informatik/Compilerbau/Syntaxtree.yaml
+  - .data/Studium/Informatik/Compilerbau/Parsing.yaml

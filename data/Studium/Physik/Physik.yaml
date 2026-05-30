@@ -1,0 +1,9 @@
+Path: ./data/Studium/Physik/Physik.yaml
+PosX: 94.6397247314
+PosY: -40.2418327331
+Folded: false
+Title: Physik
+Text: ...
+Childs: 
+  - ./data/Studium/Physik/E-Feld.yaml
+  - ./data/Studium/Physik/B-Feld.yaml

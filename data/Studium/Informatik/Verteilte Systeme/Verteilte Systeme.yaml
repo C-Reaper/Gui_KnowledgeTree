@@ -1,0 +1,13 @@
+Path: ./data/Studium/Informatik/Verteilte_Systeme/Verteilte_Systeme.yaml
+PosX: 0.0
+PosY: 0.0
+Folded: false
+Title: Verteilte Systeme
+Text: "..."
+Childs:
+  - ./data/Studium/Informatik/Verteilte_Systeme/Konsistenz.yaml
+  - ./data/Studium/Informatik/Verteilte_Systeme/RPC.yaml
+  - ./data/Studium/Informatik/Verteilte_Systeme/Replication.yaml
+  - ./data/Studium/Informatik/Verteilte_Systeme/Konsensalgorithmen.yaml
+  - ./data/Studium/Informatik/Verteilte_Systeme/ClientServer.yaml
+  - ./data/Studium/Informatik/Verteilte_Systeme/REST.yaml

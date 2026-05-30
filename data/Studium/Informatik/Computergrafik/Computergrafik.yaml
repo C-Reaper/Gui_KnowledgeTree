@@ -1,0 +1,12 @@
+Path: ./data/Studium/Informatik/Computergrafik/Computergrafik.yaml
+PosX: -154.2061462402
+PosY: -5.9905776977
+Folded: false
+Title: Computergrafik
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Computergrafik/Shader.yaml
+  - .data/Studium/Informatik/Computergrafik/Transformations.yaml
+  - .data/Studium/Informatik/Computergrafik/Raytracing.yaml
+  - .data/Studium/Informatik/Computergrafik/3D_Geometry.yaml
+  - .data/Studium/Informatik/Computergrafik/Rendering.yaml

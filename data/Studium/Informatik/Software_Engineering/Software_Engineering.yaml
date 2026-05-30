@@ -1,0 +1,13 @@
+Path: ./data/Studium/Informatik/Software_Engineering/Software_Engineering.yaml
+PosX: 130.8603210449
+PosY: 30.4285888671
+Folded: false
+Title: Software Engineering
+Text: ...
+Childs: 
+  - .data/Studium/Informatik/Software_Engineering/RequirementsEng.yaml
+  - .data/Studium/Informatik/Software_Engineering/UML.yaml
+  - .data/Studium/Informatik/Software_Engineering/Testing.yaml
+  - .data/Studium/Informatik/Software_Engineering/AgileEntwicklung.yaml
+  - .data/Studium/Informatik/Software_Engineering/Entwurfsmuster.yaml
+  - .data/Studium/Informatik/Software_Engineering/Versionctl.yaml

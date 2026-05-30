@@ -1,0 +1,14 @@
+Path: ./data/Studium/Informatik/Theoretische_Informatik/Theoretische_Informatik.yaml
+PosX: -71.1545715332
+PosY: 66.8477249145
+Folded: false
+Title: Theoretische Informatik
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Theoretische_Informatik/Regex.yaml
+  - ./data/Studium/Informatik/Theoretische_Informatik/KontextfreieGrammatiken.yaml
+  - ./data/Studium/Informatik/Theoretische_Informatik/EndlicheAutomaten.yaml
+  - ./data/Studium/Informatik/Theoretische_Informatik/TuringMaschines.yaml
+  - ./data/Studium/Informatik/Theoretische_Informatik/Berechenbarkeit.yaml
+  - ./data/Studium/Informatik/Theoretische_Informatik/RegulaereSprachen.yaml
+  - ./data/Studium/Informatik/Theoretische_Informatik/Automaten.yaml

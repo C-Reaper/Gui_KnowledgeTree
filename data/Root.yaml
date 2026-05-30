@@ -1,8 +1,0 @@
-Path: ./data/Root.yaml
-PosX: 42.1109771728
-PosY: -8.4066848754
-Title: Root
-Text: "Alle Gebiete\nEinfach alles"
-Childs: 
-  - ./data/Math.yaml
-  - ./data/Physics.yaml

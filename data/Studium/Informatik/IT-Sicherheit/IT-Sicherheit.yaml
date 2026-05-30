@@ -1,0 +1,13 @@
+Path: ./data/Studium/Informatik/IT-Sicherheit/IT-Sicherheit.yaml
+PosX: 0.0
+PosY: 0.0
+Folded: false
+Title: IT-Sicherheit
+Text: "..."
+Childs:
+  - .data/Studium/Informatik/IT-Sicherheit/Hashing.yaml
+  - .data/Studium/Informatik/IT-Sicherheit/Symmetrisch.yaml
+  - .data/Studium/Informatik/IT-Sicherheit/Authentifizierung.yaml
+  - .data/Studium/Informatik/IT-Sicherheit/Asymmetrisch.yaml
+  - .data/Studium/Informatik/IT-Sicherheit/DigitaleSignaturen.yaml
+  - .data/Studium/Informatik/IT-Sicherheit/Kryptographie.yaml

@@ -1,0 +1,14 @@
+Path: ./data/Studium/Informatik/Rechnerarchitektur/Rechnerarchitektur.yaml
+PosX: 16.1469421386
+PosY: -97.4686050415
+Folded: false
+Title: Rechnerarchitektur
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Rechnerarchitektur/Speicher.yaml
+  - ./data/Studium/Informatik/Rechnerarchitektur/Binaerzahlen.yaml
+  - ./data/Studium/Informatik/Rechnerarchitektur/CPU.yaml
+  - ./data/Studium/Informatik/Rechnerarchitektur/Logikgatter.yaml
+  - ./data/Studium/Informatik/Rechnerarchitektur/VonNeumannArchitektur.yaml
+  - ./data/Studium/Informatik/Rechnerarchitektur/Hexadezimalzahlen.yaml
+  - ./data/Studium/Informatik/Rechnerarchitektur/Maschinenbefehle.yaml

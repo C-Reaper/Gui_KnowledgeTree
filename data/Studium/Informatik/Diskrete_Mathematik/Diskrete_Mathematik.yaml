@@ -1,0 +1,11 @@
+Path: ./data/Studium/Informatik/Diskrete_Mathematik/Diskrete_Mathematik.yaml
+PosX: 50.7058105468
+PosY: -62.4832763671
+Folded: false
+Title: Diskrete Mathematik
+Text: ...
+Childs: 
+  - ./data/Studium/Informatik/Diskrete_Mathematik/Kombinatorik.yaml
+  - ./data/Studium/Informatik/Diskrete_Mathematik/AlgebraischeStrukturen.yaml
+  - ./data/Studium/Informatik/Diskrete_Mathematik/Numbertheory.yaml
+  - ./data/Studium/Informatik/Diskrete_Mathematik/Graphtheory.yaml

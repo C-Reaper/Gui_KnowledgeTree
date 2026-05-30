@@ -1,8 +1,0 @@
-Path: ./data/Math.yaml
-PosX: 16.8334655761
-PosY: 14.7029809951
-Title: Math
-Text: "Alle Operationen\nAlle Teilgebiete\nEinfach alles!"
-Childs: 
-  - ./data/Analysis.yaml
-  - ./data/Geometrie.yaml
