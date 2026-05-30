@@ -5,15 +5,6 @@ Folded: false
 Title: Programmierung
 Text: ...
 Childs: 
-  - .data/Studium/Informatik/Programmierung/Theorie/Schleifen.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Operatoren.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Arrays.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Datentypen.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Fehlerbehandlung.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Variablen.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Bedingungen.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Ein_Ausgabe.yaml
-  - .data/Studium/Informatik/Programmierung/Theorie/Funktionen_Methoden.yaml
   - ./data/Studium/Informatik/Programmierung/Java/Java.yaml
   - ./data/Studium/Informatik/Programmierung/Python/Python.yaml
   - ./data/Studium/Informatik/Programmierung/Theorie/Theorie.yaml

@@ -4,3 +4,8 @@ PosY: 0.0
 Folded: false
 Title: MC_Interaction
 Text: ...
+Childs: 
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/UX.yaml
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/Usability.yaml
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/Accessibility.yaml
+  - .data/Studium/Informatik/Webentwicklung/MC_Interaction/UI.yaml

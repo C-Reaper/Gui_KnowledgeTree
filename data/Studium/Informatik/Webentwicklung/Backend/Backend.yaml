@@ -4,3 +4,8 @@ PosY: 0.0
 Folded: false
 Title: Backend
 Text: ...
+Childs: 
+  - .data/Studium/Informatik/Webentwicklung/Backend/Datenbankanbindung.yaml
+  - .data/Studium/Informatik/Webentwicklung/Backend/Session.yaml
+  - .data/Studium/Informatik/Webentwicklung/Backend/Authentifizierung.yaml
+  - .data/Studium/Informatik/Webentwicklung/Backend/API.yaml
