@@ -14,7 +14,7 @@ The project appears to be a graphical application for rendering and updating a k
 - Make utility
 - Standard development tools
 - Libraries needed in specific projects:
-  - WindowEngine1.0.h for window engine functionalities.
+  - WindowEngine.h for window engine functionalities.
   - KnowledgeTree.h for knowledge tree operations.
 
 ## Build & Run
